@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Edited by XMLSpy® -->
+<CATALOG>
+	<VegMenu>
+		<TITLE>Paneer Butter Masala</TITLE>
+		<PRICE>70</PRICE>
+	</VegMenu>
+	<VegMenu>
+		<TITLE>Paneer Kadhai</TITLE>
+		<PRICE>80</PRICE>
+	</VegMenu>
+	<VegMenu>
+		<TITLE>Paneer Handi</TITLE>
+	    <PRICE>110</PRICE>
+	</VegMenu>
+	<VegMenu>
+		<TITLE>Mashroom Fry</TITLE>
+	    <PRICE>75</PRICE>
+	</VegMenu>
+	<VegMenu>
+		<TITLE>Paneer Makhanwala</TITLE>
+	    <PRICE>120</PRICE>
+	</VegMenu>
+	<VegMenu>
+		<TITLE>Mix Vegetable</TITLE>
+	    <PRICE>110</PRICE>
+	</VegMenu>
+	<ROTI>
+		<TITLE>Plain Roti</TITLE>
+		<PRICE>7</PRICE>
+	</ROTI>
+	<ROTI>
+		<TITLE>Butter Roti</TITLE>
+		<PRICE>17</PRICE>
+	</ROTI>
+	<ROTI>
+		<TITLE>Plain Naan</TITLE>
+		<PRICE>15</PRICE>
+	</ROTI>
+	<ROTI>
+		<TITLE>Butter Naan</TITLE>
+		<PRICE>30</PRICE>
+	</ROTI>
+</CATALOG>

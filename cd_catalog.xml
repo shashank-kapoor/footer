@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Edited by XMLSpy® -->
+<CATALOG>
+	<VEG>
+	 <SABJI>
+	   <ITEM>
+	   <TITLE>Paneer Butter Masala</TITLE>
+	   <PRICE>Rs 70</PRICE>
+	   </ITEM>
+	   <ITEM>
+	   <TITLE>Paneer Kadhai</TITLE>
+	   <PRICE>Rs 80</PRICE>
+	   </ITEM>
+	   <ITEM>
+	   <TITLE>Paneer Handi</TITLE>
+	   <PRICE>Rs 110</PRICE>
+	   </ITEM>
+	   <ITEM>
+	   <TITLE>Mashroom Fry</TITLE>
+	   <PRICE>Rs 75</PRICE>
+	   </ITEM>
+	   <ITEM>
+	   <TITLE>Paneer Makhanwala</TITLE>
+	   <PRICE>Rs 120</PRICE>
+	   </ITEM>
+	   <ITEM>
+	   <TITLE>Mix Vegetable</TITLE>
+	   <PRICE>Rs 110</PRICE>
+	   </ITEM>
+	  </SABJI>
+	   
+	  <ROTI>
+		<ITEM>
+		<TITLE>Chapati</TITLE>
+		<PRICE>Rs 7</PRICE>
+		</ITEM>
+		<ITEM>
+		<TITLE>Roti</TITLE>
+		<PRICE>Rs 10</PRICE>
+		</ITEM>
+		<ITEM>
+		<TITLE>Butter Roti</TITLE>
+		<PRICE>Rs 15</PRICE>
+		</ITEM>
+		<ITEM>
+		<TITLE>Stuffed Roti</TITLE>
+		<PRICE>Rs 25</PRICE>
+		</ITEM>
+	  </ROTI>
+	</VEG>
+</CATALOG>
